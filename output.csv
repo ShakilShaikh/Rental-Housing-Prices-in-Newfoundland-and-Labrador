@@ -1,0 +1,9 @@
+Region,Rent2BR_mean,Rent2BR_std,VacancyRate_mean,VacancyRate_std,TurnoverRate_mean,TurnoverRate_std,Year
+St. John's CMA,951.0,14.14,6.75,0.64,22.05,7.42,2018
+St. John's CMA,963.5,3.54,6.6,0.42,25.9,1.98,2019
+St. John's CMA,970.0,5.66,7.2,0.42,17.7,9.62,2020
+St. John's CMA,1000.0,36.77,5.3,3.11,15.85,7.0,2021
+St. John's CMA,1032.0,8.49,3.0,0.14,21.65,1.2,2022
+St. John's CMA,1118.0,113.14,2.2,0.99,18.35,5.87,2023
+St. John's CMA,1224.0,36.77,1.8,0.42,14.15,0.07,2024
+St. John's CMA,1305.5,78.49,2.05,0.07,13.55,0.78,2025
